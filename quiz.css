@@ -1,0 +1,60 @@
+body {
+    background: silver;
+}
+
+.start {
+    font-size: 20px;
+    background: #C2CFE4;
+    border-radius: 70px;
+    width: 50%;
+    height: 180px;
+    border: 20px solid #264B87;
+    margin: 30px auto;
+    text-align: center;
+    box-shadow: inset 20px 10px 15px grey;
+    padding-top: 20px;
+}
+
+.start2 {
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.auswahl{
+    float: left; position: relative;
+background: white;
+height: 120px; width: 100px;
+margin: 20px; padding: 10px;
+font-size: 100px;
+box-shadow: 15px 15px 15px grey;
+border: solid gray;
+border-radius: 30px;
+}
+
+.start3{
+    display: flex; 
+    justify-content:space-around;
+    padding: 40px;
+}
+
+.button{
+    height: 60px;
+}
+
+#Antworten{
+    font-weight: bold;
+}
+
+#Antworten:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+
+
+.no-hover{
+    pointer-events: none;
+    background-color: initial;
+    color: initial;
+}

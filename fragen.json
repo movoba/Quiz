@@ -1,0 +1,144 @@
+{
+        "1": {
+            "frage": "Welches Protokoll wird verwendet, um eine sichere Verbindung für die Übertragung von Daten über das Internet zu gewährleisten",
+            "antwort1": "1) TLS",
+            "antwort2": "2) FTP",
+            "antwort3": "3) SNMP",
+            "richtigeAntwort": "1"
+        },
+        "2": {
+            "frage": "Welches RAID-Level bietet eine Balance zwischen Leistung und Datenredundanz durch Striping und Parität",
+            "antwort1": "1) RAID 0",
+            "antwort2": "2) RAID 1",
+            "antwort3": "3) RAID 5",
+            "richtigeAntwort": "3"
+        },
+        "3": {
+            "frage": "Welche Netzwerktechnologie ermöglicht die Verbindung von Geräten über große Distanzen mit hoher Bandbreite",
+            "antwort1": "1) LAN",
+            "antwort2": "2) WAN",
+            "antwort3": "3) PAN",
+            "richtigeAntwort": "2"
+        },
+        "4": {
+            "frage": "In welchem OSI-Layer werden IP-Adressen verwendet",
+            "antwort1": "1) Transportschicht",
+            "antwort2": "2) Netzwerkschicht",
+            "antwort3": "3) Anwendungsschicht",
+            "richtigeAntwort": "2"
+        },
+        "5": {
+            "frage": "Welches der folgenden Protokolle ist für die automatische Konfiguration von Netzwerkeinstellungen verantwortlich",
+            "antwort1": "1) DNS",
+            "antwort2": "2) DHCP",
+            "antwort3": "3) SMTP",
+            "richtigeAntwort": "2"
+        },
+        "6": {
+            "frage": "Welche Sicherheitsmaßnahme schützt ein Netzwerk vor nicht autorisierten Zugriffen durch das Filtern von Datenpaketen",
+            "antwort1": "1) IDS",
+            "antwort2": "2) VPN",
+            "antwort3": "3) Firewall",
+            "richtigeAntwort": "3"
+        },
+        "7": {
+            "frage": "Welches Netzwerkgerät wird verwendet, um Datenpakete zwischen verschiedenen Netzwerken weiterzuleiten",
+            "antwort1": "1) Switch",
+            "antwort2": "2) Hub",
+            "antwort3": "3) Router",
+            "richtigeAntwort": "3"
+        },
+        "8": {
+            "frage": "Welche Funktion erfüllt der DHCP-Server in einem Netzwerk",
+            "antwort1": "1) Erteilt IP-Adressen",
+            "antwort2": "2) Verbindet Netzwerke",
+            "antwort3": "3) Übersetzt Hostnamen",
+            "richtigeAntwort": "1"
+        },
+        "9": {
+            "frage": "Welches der folgenden Protokolle wird zur E-Mail-Übertragung zwischen Servern verwendet",
+            "antwort1": "1) IMAP",
+            "antwort2": "2) POP3",
+            "antwort3": "3) SMTP",
+            "richtigeAntwort": "3"
+        },
+        "10": {
+            "frage": "Wie wird der Schutz eines Netzwerks durch eine sichere VPN-Verbindung realisiert",
+            "antwort1": "1) Durch Verschlüsselung des Datenverkehrs",
+            "antwort2": "2) Durch Blockierung des Datenverkehrs",
+            "antwort3": "3) Durch Begrenzung der Bandbreite",
+            "richtigeAntwort": "1"
+        },
+        "11": {
+            "frage": "Welches Protokoll wird verwendet, um Netzwerkverbindungen zu testen und die Erreichbarkeit von Hosts zu überprüfen",
+            "antwort1": "1) Ping",
+            "antwort2": "2) TraceRoute",
+            "antwort3": "3) Telnet",
+            "richtigeAntwort": "1"
+        },
+        "12": {
+            "frage": "Welche der folgenden Technologien ermöglicht es, mehrere Betriebssysteme gleichzeitig auf einem physischen Computer auszuführen",
+            "antwort1": "1) Virtualisierung",
+            "antwort2": "2) Multithreading",
+            "antwort3": "3) Containerisierung",
+            "richtigeAntwort": "1"
+        },
+        "13": {
+            "frage": "Welcher der folgenden Netzwerkports wird für den Zugriff auf einen Webserver über HTTP verwendet",
+            "antwort1": "1) 21",
+            "antwort2": "2) 80",
+            "antwort3": "3) 443",
+            "richtigeAntwort": "2"
+        },
+        "14": {
+            "frage": "Was ist der Hauptunterschied zwischen IPv4 und IPv6",
+            "antwort1": "1) IPv6 hat eine längere Adresslänge",
+            "antwort2": "2) IPv4 unterstützt Verschlüsselung",
+            "antwort3": "3) IPv6 verwendet NAT",
+            "richtigeAntwort": "1"
+        },
+        "15": {
+            "frage": "Was ist ein typisches Merkmal eines Active Directory",
+            "antwort1": "1) Es verwaltet Benutzer- und Computerressourcen",
+            "antwort2": "2) Es führt Netzwerküberwachungsprotokolle durch",
+            "antwort3": "3) Es verschlüsselt den gesamten Datenverkehr",
+            "richtigeAntwort": "1"
+        },
+        "16": {
+            "frage": "Welche der folgenden Maßnahmen ist wichtig für die Aufrechterhaltung der IT-Sicherheit in einem Unternehmen",
+            "antwort1": "1) Regelmäßige Software-Updates",
+            "antwort2": "2) Niedrigere Stromkosten",
+            "antwort3": "3) Erhöhung der Serverleistung",
+            "richtigeAntwort": "1"
+        },
+        "17": {
+            "frage": "Welches der folgenden Tools wird verwendet, um die Verfügbarkeit und Leistung von Netzwerken zu überwachen",
+            "antwort1": "1) NetFlow",
+            "antwort2": "2) SNMP",
+            "antwort3": "3) Wireshark",
+            "richtigeAntwort": "2"
+        },
+        "18": {
+            "frage": "Welches der folgenden Dateisysteme wird häufig in Linux-Systemen verwendet",
+            "antwort1": "1) NTFS",
+            "antwort2": "2) FAT32",
+            "antwort3": "3) ext4",
+            "richtigeAntwort": "3"
+        },
+        "19": {
+            "frage": "Was beschreibt der Begriff 'Failover' in der IT",
+            "antwort1": "1) Der automatische Wechsel zu einem Ersatzsystem bei Ausfall des Hauptsystems",
+            "antwort2": "2) Der Austausch von Festplatten in einem RAID-Verbund",
+            "antwort3": "3) Das Verschieben von Daten auf einen Cloud-Speicher",
+            "richtigeAntwort": "1"
+        },
+        "20": {
+            "frage": "Welche der folgenden Technologien ermöglicht es, physische Server zu konsolidieren und die Ressourcennutzung zu verbessern",
+            "antwort1": "1) Virtualisierung",
+            "antwort2": "2) RAID",
+            "antwort3": "3) Clustering",
+            "richtigeAntwort": "1"
+        }
+    }
+    
+
