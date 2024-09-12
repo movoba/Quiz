@@ -138,7 +138,147 @@
             "antwort2": "2) RAID",
             "antwort3": "3) Clustering",
             "richtigeAntwort": "1"
+        },
+        "21": {
+        "frage": "Welche Methode verwendet ein Router, um den besten Weg für den Datenverkehr zu bestimmen?",
+        "antwort1": "1) Paketfilterung",
+        "antwort2": "2) Routingtabellen",
+        "antwort3": "3) IP-Spoofing",
+        "richtigeAntwort": "2"
+        },
+        "22": {
+            "frage": "Welcher OSI-Layer ist für die Datenverschlüsselung zuständig?",
+            "antwort1": "1) Sitzungsschicht",
+            "antwort2": "2) Transportschicht",
+            "antwort3": "3) Anwendungsschicht",
+            "richtigeAntwort": "1"
+        },
+        "23": {
+        "frage": "Welches Protokoll wird hauptsächlich zur Übertragung von Dateien über das Internet verwendet?",
+        "antwort1": "1) FTP",
+        "antwort2": "2) SMTP",
+        "antwort3": "3) HTTP",
+        "richtigeAntwort": "1"
+        },
+        "24": {
+            "frage": "Welche Art von Firewall überprüft den gesamten Datenverkehr auf der Anwendungsebene?",
+            "antwort1": "1) Paketfilter-Firewall",
+            "antwort2": "2) Stateful Inspection Firewall",
+            "antwort3": "3) Proxy-Firewall",
+            "richtigeAntwort": "3"
+        },
+        "25": {
+            "frage": "Welche der folgenden Technologien wird verwendet, um das Signal eines drahtlosen Netzwerks zu verstärken?",
+            "antwort1": "1) Router",
+            "antwort2": "2) Repeater",
+            "antwort3": "3) Switch",
+            "richtigeAntwort": "2"
+        },
+        "26": {
+            "frage": "Was ist die Hauptfunktion des ARP-Protokolls im Netzwerk?",
+            "antwort1": "1) Umwandlung von IP-Adressen in MAC-Adressen",
+            "antwort2": "2) Übertragung von Datenpaketen",
+            "antwort3": "3) Sicherstellung der Datenintegrität",
+            "richtigeAntwort": "1"
+        },
+        "27": {
+            "frage": "Welcher Typ von Malware verschlüsselt Dateien und fordert ein Lösegeld für deren Freigabe?",
+            "antwort1": "1) Trojaner",
+            "antwort2": "2) Ransomware",
+            "antwort3": "3) Spyware",
+            "richtigeAntwort": "2"
+        },
+        "28": {
+            "frage": "Welche Netzwerkkomponente wird verwendet, um mehrere Geräte in einem LAN zu verbinden?",
+            "antwort1": "1) Hub",
+            "antwort2": "2) Switch",
+            "antwort3": "3) Router",
+            "richtigeAntwort": "2"
+        },
+        "29": {
+            "frage": "Welches Protokoll wird verwendet, um eine IP-Adresse dynamisch einem Gerät in einem Netzwerk zuzuweisen?",
+            "antwort1": "1) DHCP",
+            "antwort2": "2) DNS",
+            "antwort3": "3) ARP",
+            "richtigeAntwort": "1"
+        },
+        "30": {
+            "frage": "Welches Netzwerkprotokoll ermöglicht den Remote-Zugriff auf einen anderen Computer?",
+            "antwort1": "1) Telnet",
+            "antwort2": "2) FTP",
+            "antwort3": "3) SMTP",
+            "richtigeAntwort": "1"
+        },
+        "31": {
+            "frage": "Was beschreibt die Netzwerktopologie 'Stern'?",
+            "antwort1": "1) Alle Geräte sind in Reihe geschaltet",
+            "antwort2": "2) Alle Geräte sind direkt mit einem zentralen Gerät verbunden",
+            "antwort3": "3) Jedes Gerät ist mit jedem anderen Gerät verbunden",
+            "richtigeAntwort": "2"
+        },
+        "32": {
+            "frage": "Welche Sicherheitsmaßnahme wird genutzt, um den Datenverkehr zwischen einem Webbrowser und einem Webserver zu verschlüsseln?",
+            "antwort1": "1) SSL/TLS",
+            "antwort2": "2) SSH",
+            "antwort3": "3) IPsec",
+            "richtigeAntwort": "1"
+        },
+        "33": {
+            "frage": "Welcher Netzwerkdienst wandelt Domainnamen in IP-Adressen um?",
+            "antwort1": "1) DNS",
+            "antwort2": "2) DHCP",
+            "antwort3": "3) HTTP",
+            "richtigeAntwort": "1"
+        },
+        "34": {
+            "frage": "Was ist die Funktion eines VPNs (Virtual Private Network)?",
+            "antwort1": "1) Es verbessert die Netzwerkgeschwindigkeit",
+            "antwort2": "2) Es bietet eine verschlüsselte Verbindung über ein unsicheres Netzwerk",
+            "antwort3": "3) Es übersetzt IP-Adressen in MAC-Adressen",
+            "richtigeAntwort": "2"
+        },
+        "35": {
+            "frage": "Welcher Netzwerkport wird für die gesicherte Übertragung von HTTP-Daten verwendet (HTTPS)?",
+            "antwort1": "1) Port 80",
+            "antwort2": "2) Port 443",
+            "antwort3": "3) Port 21",
+            "richtigeAntwort": "2"
+        },
+        "36": {
+            "frage": "Welche Technik wird verwendet, um das Netzwerk in verschiedene Subnetze zu unterteilen?",
+            "antwort1": "1) NAT",
+            "antwort2": "2) Subnetting",
+            "antwort3": "3) VLAN",
+            "richtigeAntwort": "2"
+        },
+        "37": {
+            "frage": "Was ist die Funktion von QoS (Quality of Service) in Netzwerken?",
+            "antwort1": "1) Verbessert die Sicherheit des Netzwerks",
+            "antwort2": "2) Steuert die Bandbreitennutzung und Priorisierung des Datenverkehrs",
+            "antwort3": "3) Verhindert den Zugriff auf bösartige Websites",
+            "richtigeAntwort": "2"
+        },
+        "38": {
+            "frage": "Welcher Begriff beschreibt den Prozess, bei dem sich Geräte in einem Netzwerk dynamisch eine IP-Adresse holen?",
+            "antwort1": "1) DNS-Auflösung",
+            "antwort2": "2) DHCP-Leasing",
+            "antwort3": "3) NAT",
+            "richtigeAntwort": "2"
+        },
+        "39": {
+            "frage": "Was ist der Hauptunterschied zwischen TCP und UDP?",
+            "antwort1": "1) TCP ist verbindungslos, UDP ist verbindungsorientiert",
+            "antwort2": "2) TCP garantiert die Zustellung, UDP nicht",
+            "antwort3": "3) UDP verschlüsselt Daten, TCP nicht",
+            "richtigeAntwort": "2"
+        },
+        "40": {
+            "frage": "Welche Art von Angriff umfasst das Überfluten eines Netzwerks mit sinnlosen Datenpaketen?",
+            "antwort1": "1) Phishing",
+            "antwort2": "2) Man-in-the-Middle",
+            "antwort3": "3) Denial of Service (DoS)",
+            "richtigeAntwort": "3"
         }
-    }
-    
+}
+
 
