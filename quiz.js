@@ -20,7 +20,8 @@ let punkte = 0;
 async function fetchJson() {
 
 
-    let zufallsArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40];
+    //let zufallsArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40];
+    const zufallsArray = Array.from({ length: 40 }, (v, i) => i + 1);
     for (let i = zufallsArray.length - 1; i > 0; i--) {
             let j = Math.floor(Math.random() * (i + 1));
             [zufallsArray[i], zufallsArray[j]] = [zufallsArray[j], zufallsArray[i]];
