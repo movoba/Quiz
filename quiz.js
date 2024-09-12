@@ -43,12 +43,18 @@ function tippeButton(gewaehlterButton) {
         return;
     }
     gesperrt = true;
+
+    let richtigerButton = document.getElementById(richtigeAntwort);
+        
     if (gewaehlterButton.id == richtigeAntwort) {
         gewaehlterButton.style.background = "#00FF00";
         punkte++;
+        
     }
-    else {
-        gewaehlterButton.style.background = "#FF0000" ;
+    else{
+        gewaehlterButton.style.background = "#FF0000";
+        punkte--;
+        richtigerButton.style.background = "#00FF00";
     }
 }
 
